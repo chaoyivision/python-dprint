@@ -3,7 +3,7 @@ An easy-to-use debug print tool for deep learning studies in python.
         
 ![img](./teaser.png)
 # Why we need it? 
-The built-in debugger is great, however, for some reason :upside_down_face:, we may still want to <b>print them out for debugging purpose</b>. For such scenarios, we would like it to have the following feats. (especially when running deep learning projects - where our monitoring/debugging variables are being updated within loops)
+The built-in debugger is great, however, for some reason :upside_down_face:, we may still want to <b>print them out for debugging purpose</b>. For such scenarios, we would like it to have the following feats. (especially when running deep learning projects - where our monitoring/debugging variables are being updated within loops).
 
 1. Context Info. We may like to display the <b>invoking positions</b> for these variables (to help us identify back each of them), including their file name, func name, and line number. 
 
