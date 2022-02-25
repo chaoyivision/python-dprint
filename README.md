@@ -1,7 +1,7 @@
 # python-dprint
 debug print tool for deep learning studies in python.
         
-![img](./example.png)
+![img](./teaser.png)
 # Why we need it? 
 The built-in debugger is great, however, for some reason :upside_down_face:, we may still want to <b>print them out for debugging purpose</b>. For such scenarios, we would like it to have the following features (especially when running deep learning projects - where our monitoring/debugging variables are being updated within loops)
 
