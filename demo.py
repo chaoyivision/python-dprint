@@ -1,4 +1,4 @@
-from utils import dprint
+from pydprint import dprint
 
 def demo():
     import numpy as np
