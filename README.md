@@ -1,5 +1,5 @@
 # python-dprint
-debug print tool for deep learning studies in python.
+An easy-to-use debug print tool for deep learning studies in python.
         
 ![img](./teaser.png)
 # Why we need it? 
